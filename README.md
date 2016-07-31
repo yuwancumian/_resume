@@ -5,7 +5,7 @@
 乐首付  
 
 * 网站：[www.leshoufu.com](http://www.leshoufu.com)
-* 微信：乐首付服务
+* 微信公众号：乐首付服务
 
 晓石资本
 
@@ -13,14 +13,14 @@
 
 万赏金 
 
-- 微信：万赏金
+- 微信公众号：万赏金
 
 阿伽贝亚宠物王国
 
 - 网站：[petkingdom.cn](http://www.petkingdom.cn)
 
 
-* 微信：阿伽贝亚
+* 微信公众号：阿伽贝亚
 
 ### Node 写的一些小工具
 
@@ -62,7 +62,7 @@
 
 - [笔墨间](http://www.bimojian.com)
 
-业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到前端到搭建后台均是个人完成  ，前端基于 React ＋Webpack + Es6 + Babel , [源码](https://github.com/yuwancumian/bimojian/tree/antd)  。后端是用 lnmp上架了一个 wordpress 提供 restful 接口。 
+业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到前端到搭建后台均是个人完成  ，前端基于 React ＋Webpack + Es6 + Babel ，*[访问源码](https://github.com/yuwancumian/bimojian/tree/antd)*  。后端是用 lnmp上架了一个 wordpress 提供 restful 接口。 
 
 #### react + express 后端渲染
 
