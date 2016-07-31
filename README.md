@@ -34,7 +34,7 @@
 
 - [btw](https://github.com/yuwancumian/btw)
 
-  查询某一个 class 属于哪一个 bootstrap 组件
+  查询某一个具体的class， 属于哪一个 bootstrap 组件
 
 - [sync2](https://github.com/yuwancumian/sync2)
 
@@ -42,7 +42,7 @@
 
 ### Hybird 经历
 
-2015年末用 Framework7 ＋ Cordova 折腾过一个 Hybird 项目，实现了注册、登录、浏览、图片上传等基础功能，由于当时用 Cordova 实现支付功能没有研究出来，最后并没有做成产品。此时 react 和 react-native 正如火如荼，于是业余开始学习 react。
+2015年末用 Framework7 ＋ Cordova 写了一个 Hybird 项目，实现了注册、登录、浏览、图片上传等基础功能，由于当时用 Cordova 实现支付功能没有研究出来，最后并没有做成产品。此时 react 和 react-native 正如火如荼，于是业余开始学习 react。
 
 ### 最近学习的技术栈
 
@@ -63,4 +63,8 @@
 - [笔墨间](http://www.bimojian.com)
 
 业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到前端到搭建后台均是个人完成  ，前端基于 React ＋Webpack + Es6 + Babel , [源码](https://github.com/yuwancumian/bimojian/tree/antd)  。后端是用 lnmp上架了一个 wordpress 提供 restful 接口。 
+
+#### react + express 后端渲染
+
+学习阶段，所以上面 *笔墨间* 这个站内页暂时还不能刷新，因为现在只有首页一个入口 
 
