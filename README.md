@@ -42,7 +42,7 @@
 
 ### Hybird 经历
 
-15年末用 Framework7 ＋ Cordova 折腾过一个 Hybird 项目，实现了注册、登录、浏览、图片上传等基础功能，但是由于当时用 Cordova 实现支付功能没有研究出来，最后并没有做成产品。此时 react 和 react-native 正如火如荼，于是业余开始学习 react。
+2015年末用 Framework7 ＋ Cordova 折腾过一个 Hybird 项目，实现了注册、登录、浏览、图片上传等基础功能，由于当时用 Cordova 实现支付功能没有研究出来，最后并没有做成产品。此时 react 和 react-native 正如火如荼，于是业余开始学习 react。
 
 ### 最近学习的技术栈
 
