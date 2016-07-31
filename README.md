@@ -48,11 +48,11 @@
 
 #### 用 express 加速前端开发
 
-用了 express 来做前端，不直接写html ，用 epxress render 出html， 其他玩法大致相同，引入 express 主要有这样几处便利，
+用了 express 来做前端，不直接写html ，用 epxress render 出html， 其他玩法大致相同，引入 express 主要有这样几处便利：
 
 - localserver 本地服务器，当然 gulp 也有很多工具也可以做这件事
 
-- mock server，可以将 mock 数据直接写到 router 里面，也可以引入 mockjs 这个 npm 。
+- mock server，可以将 mock 数据直接写到 router 里面，也可以引入 mockjs 这个 npm 
 
 - handlebar 模板引擎，view 层上可以将一些公共组件独立出来
 
@@ -62,9 +62,9 @@
 
 - [笔墨间](http://www.bimojian.com)
 
-业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到前端到搭建后台均是个人完成  ，前端基于 React ＋Webpack + Es6 + Babel ，*[访问源码](https://github.com/yuwancumian/bimojian/tree/antd)*  。后端是用 lnmp上架了一个 wordpress 提供 restful 接口。 
+业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到前端到搭建后台均是个人完成  ，前端基于 React ＋Webpack + Es6 + Babel ，*[访问源码](https://github.com/yuwancumian/bimojian/tree/antd)*  ，后端是用 lnmp上架了一个 wordpress 提供 restful 接口。 
 
 #### react + express 后端渲染
 
-学习阶段，所以上面 *笔墨间* 这个站内页暂时还不能刷新，因为现在只有首页一个入口 
+学习阶段，所以上面 *笔墨间* 这个站内页暂时还不能刷新，因为现在只有首页一个入口 。
 
