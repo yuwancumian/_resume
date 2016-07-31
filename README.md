@@ -44,7 +44,7 @@
 
 ### 个人项目
 
-[笔墨间](http://www.bimojian.com)
+- [笔墨间](http://www.bimojian.com)
 
 业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到后台均是个人完成  ，基于 React ＋Webpack + Es6 + Babel 。
 
