@@ -44,17 +44,17 @@
 
 用了 express 来做前端， 其他玩法大致相同，引入 express 主要有这样几处便利，
 
-- localserver 本地服务器，当然 gulp也有很多工具也可以做这件事
+- localserver 本地服务器，当然 gulp 也有很多工具也可以做这件事
 
-- mock server，可以将数据直接写到 router 里面，也可以引入 mockjs 这个npm ，获得模拟数据 
+- mock server，可以将数据直接写到 router 里面，也可以引入 mockjs 这个 npm ，获得模拟数据 
 
 - handlebar 模板引擎，view 层上可以将一些公共组件独立出来
 
-  为了方便每次快速生成目录，于是写了 [express-starter](https://github.com/yuwancumian/website-starter)，一个express ＋ bootstrap基础组件 ＋ 前端构建功能 的脚手架。
+  为了方便每次快速生成目录，于是写了 [express-starter](https://github.com/yuwancumian/website-starter)，一个 express ＋ bootstrap 基础组件 ＋ 前端构建功能 的脚手架。
 
 ### Hybird 经历
 
-15年末用 Framework7 ＋ Cordova 折腾过一个Hybird 项目，实现了注册、登录、浏览、图片上传等基础功能，但是由于当时用 Cordova 实现支付没有研究出来，最后并没有做成产品。而此时 react 和 react-native 正如火如荼，于是业余开始学习 react。
+15年末用 Framework7 ＋ Cordova 折腾过一个 Hybird 项目，实现了注册、登录、浏览、图片上传等基础功能，但是由于当时用 Cordova 实现支付没有研究出来，最后并没有做成产品。而此时 react 和 react-native 正如火如荼，于是业余开始学习 react。
 
 ### 个人项目
 
