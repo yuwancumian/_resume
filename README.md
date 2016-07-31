@@ -1,4 +1,4 @@
-## Detail of reguume
+## Detail of resume
 
 ### 部分前端项目
 
@@ -22,6 +22,8 @@
 
 * 微信：阿伽贝亚
 
+
+
 ### 用 Node 写的一些小工具
 
 - [klipboard](https://github.com/yuwancumian/klipboard)
@@ -44,7 +46,9 @@
 
 [笔墨间](http://www.bimojian.com)
 
-业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到后台均是个人独立完成  ，基于 React ＋Webpack + Es6 + Babel 。
+业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到后台均是个人完成  ，基于 React ＋Webpack + Es6 + Babel 。
+
+
 
 
 
