@@ -38,7 +38,7 @@
 
 - [sync2](https://github.com/yuwancumian/sync2)
 
-  定义好多个项目的源文件夹和目标文件夹，一键同步到服务器
+  定义多个项目的源文件夹和目标文件夹，一键同步到服务器
 
 ### Hybird 经历
 
