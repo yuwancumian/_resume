@@ -64,10 +64,6 @@
 
 业余时间喜欢书法，所以边学 react 边做了这个小站，从设计到前端到搭建后台均是个人完成  ，前端基于 React ＋Webpack + Es6 + Babel ，*[访问源码](https://github.com/yuwancumian/bimojian/tree/antd)*  ，后端是用 lnmp上架了一个 wordpress 提供 restful 接口。 
 
-#### react + express 后端渲染
-
-学习阶段，所以上面 *笔墨间* 这个站内页暂时还不能刷新，因为现在只有首页一个入口 。
-
 
 
 #### 产品设计
